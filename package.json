@@ -1,0 +1,36 @@
+{
+  "name": "command-line-webserver",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "puppy0cam <puppy0caminminecraft@gmail.com> (http://puppy0cam.guppygalaxy.com)",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "latest",
+    "express": "latest",
+    "http": "latest",
+    "socket.io": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puppy0cam/command-line-webserver.git"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "web",
+    "server",
+    "webserver",
+    "socket",
+    "website",
+    "custom",
+    "control"
+  ],
+  "bugs": {
+    "url": "https://github.com/puppy0cam/command-line-webserver/issues"
+  },
+  "homepage": "https://github.com/puppy0cam/command-line-webserver#readme"
+}
